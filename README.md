@@ -1,4 +1,4 @@
-### Hi there 👋
+
 This is python session done by me
 
 <!--
