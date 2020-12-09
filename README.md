@@ -1,4 +1,5 @@
 ### Hi there 👋
+This is python session done by me
 
 <!--
 **PrakashGnanam/PrakashGnanam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
